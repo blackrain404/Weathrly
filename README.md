@@ -1,3 +1,3 @@
 # Weathrly
 
-Deployment link : weathrly-mu.vercel.app
+Deployment link : [Weatherly] (weathrly-mu.vercel.app)
